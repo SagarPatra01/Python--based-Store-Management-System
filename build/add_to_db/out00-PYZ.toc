@@ -1,0 +1,574 @@
+('E:\\Projects\\Python\\Store Management '
+ 'Software\\build\\add_to_db\\out00-PYZ.pyz',
+ [('ntpath',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('stat',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('fnmatch',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('inspect',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('ssl',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('pprint',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('warnings',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\warnings.py',
+   'PYMODULE'),
+  ('enum',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
+   'PYMODULE'),
+  ('signal',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('subprocess',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\os.py',
+   'PYMODULE'),
+  ('token',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\token.py',
+   'PYMODULE'),
+  ('textwrap',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('struct',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('gettext',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('argparse',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('copy',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('ast',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('sqlite3',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('tkinter',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   "c:\\users\\sagar's "
+   'pc\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
