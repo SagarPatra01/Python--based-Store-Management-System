@@ -1,4 +1,7 @@
 # Store-Management-System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7584266745d47899340f9be5d682b53)](https://app.codacy.com/app/srpsagar.patra/Python--based-Store-Management-System?utm_source=github.com&utm_medium=referral&utm_content=SagarPatra01/Python--based-Store-Management-System&utm_campaign=Badge_Grade_Dashboard)
+
 Store Management System with  full function of sales handling.
 Features:
  - Add as many products as you like to the database.
